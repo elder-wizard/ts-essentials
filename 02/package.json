@@ -1,0 +1,22 @@
+{
+  "name": "ts-tutorials",
+  "version": "1.0.0",
+  "description": "TS tutorials ",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.2.0",
+    "@typescript-eslint/parser": "^5.2.0",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.1",
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}
