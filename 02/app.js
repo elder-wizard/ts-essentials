@@ -11,3 +11,4 @@ function throwError(msg, code) {
     };
 }
 throwError('An error here', 500);
+//# sourceMappingURL=app.js.map

@@ -23,3 +23,4 @@ var app = new Vue({
         userRole: user.role
     }
 });
+//# sourceMappingURL=obj-arr-enum.js.map
