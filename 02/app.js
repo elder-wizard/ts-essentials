@@ -1,3 +1,4 @@
+"use strict";
 var input;
 var textInput;
 if (typeof input === 'string') {

@@ -14,3 +14,4 @@ function throwError (msg: string, code: number): never {
 }
 
 throwError('An error here', 500)
+

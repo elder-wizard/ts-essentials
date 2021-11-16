@@ -31,7 +31,7 @@ function log(name: string, age: number): void {
 
 // void - returns nothing
 
-log('Vlad', 1488);
+log('Vlad', 104808);
 
 function calc(a: number, b: number | string): number { 
     if (typeof b === 'string') b = +b
